@@ -14,4 +14,5 @@ On my Windows machine, I use XnView Classic to view the raytracer output. Check 
 
 On Mac, I recommend using ToyViewer. You can check it out on the Mac App Store [here!](https://apps.apple.com/us/app/toyviewer/id414298354?mt=12)
 
-## Sample Outputs
+## Sample Output
+![Raytracing output image with a specular and diffuse sphere](sample.jpg)
